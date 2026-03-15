@@ -1,0 +1,8 @@
+name: Test Call
+
+on:
+  workflow_dispatch:
+
+jobs:
+  call:
+    uses: SVUIT/workflow-hub/.github/workflows/demo-receive-event.yml@main
