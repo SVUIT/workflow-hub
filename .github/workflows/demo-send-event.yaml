@@ -1,4 +1,4 @@
-name: Test Call
+name: Call Workflow Hub
 
 on:
   workflow_dispatch:
